@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: helvetica;
+  text-align: center;
+}
+h1 {
+  color: lightred;
+  text-align: center;
+}
+a {
+  color: red;
+  text-align: center;
+}
